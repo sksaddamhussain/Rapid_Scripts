@@ -1,8 +1,4 @@
 #!/bin/bash -e
-################################################################################
-# This script is developed by Shaik Saddam Hussain
-# Any Queries / Suggestion - Please contact at sksaddamhussain@gmail.com
-################################################################################
 clear;
 START_TIME=$(date +%d-%m-%Y_%H:%M:%S)
 echo -e "\t-----------------------------------------"
